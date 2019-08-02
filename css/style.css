@@ -78,3 +78,12 @@ header .header-content {
     font-size: 22px;
   }
 }
+
+@media (min-width: 768px) and (max-width: 1200px){
+		.hb-mobile-hidden{
+		display: none!important;
+	}
+	.hb-mobile-only{
+		display: block!important;
+	}
+}
