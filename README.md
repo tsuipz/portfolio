@@ -1,4 +1,4 @@
 # Portfolio
 Portfolio for Patrick Tsui 
 
-You can enter the site here: tsuipz.github.io/portfolio/
+You can enter the site here: https://tsuipz.github.io/portfolio/
